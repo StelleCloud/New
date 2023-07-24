@@ -72,7 +72,7 @@ stages:
      - script: echo step 1 
        displayName: step 1
      - script: echo step 2 
-       displayName: step 2
+       displayName: step 4
 
    - job: Job2
      displayName:  Second Job
